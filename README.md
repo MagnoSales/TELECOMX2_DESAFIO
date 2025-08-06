@@ -18,8 +18,6 @@ O projeto inclui:
 *   Identificação das variáveis mais importantes para a predição.
 *   Criação de uma rotina para predição em novos dados.
 
-## Badges
-
 <!-- ![Estado do Build](https://img.shields.io/badge/build-passing-brightgreen) -->
 <!-- ![Licença](https://img.shields.io/badge/license-MIT-blue) -->
 <!-- ![Feito com](https://img.shields.io/badge/Feito%20com-Python-blue) -->
