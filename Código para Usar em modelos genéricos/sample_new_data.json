@@ -1,0 +1,86 @@
+{
+    "customerID": [
+        "0001-XXXXX",
+        "0002-YYYYY"
+    ],
+    "customer.gender": [
+        "Female",
+        "Male"
+    ],
+    "customer.SeniorCitizen": [
+        0,
+        1
+    ],
+    "customer.Partner": [
+        "No",
+        "Yes"
+    ],
+    "customer.Dependents": [
+        "No",
+        "No"
+    ],
+    "customer.tenure": [
+        1,
+        24
+    ],
+    "phone.PhoneService": [
+        "Yes",
+        "Yes"
+    ],
+    "phone.MultipleLines": [
+        "No",
+        "Yes"
+    ],
+    "internet.InternetService": [
+        "Fiber optic",
+        "DSL"
+    ],
+    "internet.OnlineSecurity": [
+        "No",
+        "Yes"
+    ],
+    "internet.OnlineBackup": [
+        "Yes",
+        "No"
+    ],
+    "internet.DeviceProtection": [
+        "No",
+        "Yes"
+    ],
+    "internet.TechSupport": [
+        "No",
+        "Yes"
+    ],
+    "internet.StreamingTV": [
+        "Yes",
+        "Yes"
+    ],
+    "internet.StreamingMovies": [
+        "No",
+        "Yes"
+    ],
+    "account.Contract": [
+        "Month-to-month",
+        "Two year"
+    ],
+    "account.PaperlessBilling": [
+        "Yes",
+        "No"
+    ],
+    "account.PaymentMethod": [
+        "Electronic check",
+        "Credit card (automatic)"
+    ],
+    "Total.Day": [
+        2.5,
+        1.8
+    ],
+    "account.Charges.Monthly": [
+        95.0,
+        60.0
+    ],
+    "account.Charges.Total": [
+        95.0,
+        1440.0
+    ]
+}
